@@ -1,0 +1,14 @@
+{
+  "name": "chatroomcnsp",
+  "version": "1.0.0",
+  "description": "A simple Terminal Chat Room",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CNSP",
+  "license": "GNU AGPL 3.0",
+  "dependencies": {
+  }
+}
